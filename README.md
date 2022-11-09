@@ -21,3 +21,11 @@ Los paquetes build-essentials son meta paquetes que son necesarios para compilar
 * Instalación de CMake:
 
 `sudo apt install CMake`
+
+* Clonar repositorio:
+
+`git clone https://github.com/jchaves1406/Cython.git`
+
+* Correr Makefile:
+
+`make all`
