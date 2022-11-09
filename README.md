@@ -29,3 +29,7 @@ Los paquetes build-essentials son meta paquetes que son necesarios para compilar
 * Correr Makefile:
 
 `make all`
+
+* Correr fichero lanzador:
+
+`python3 performance.py`
